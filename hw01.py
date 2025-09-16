@@ -23,7 +23,7 @@ result5 = 0
 # =============================================
 # Your code for part 1 under this line and before the print statements
 x = 27
-y=1
+y= 1
 a = 1.5
 b = 7
 c = -1
@@ -53,7 +53,9 @@ print("Part 2: result =", result2)
 # Part 3: Integer divide
 # =============================================
 # Your code for part 3 under this line and before the print statements
-
+a = 100
+b = 13
+result3 = int(a/b)
 print("Part 3: a =",a)
 print("Part 3: b =",b)
 print("Part 3: result =", result3)
@@ -64,5 +66,6 @@ print("Part 3: result =", result3)
 # =============================================
 # Your code for part 4 under this line and before the print statements
 
+result4 = int(a%b)
 print("Part 4: result =", result4)
 # End of Part 4 ----------------------
